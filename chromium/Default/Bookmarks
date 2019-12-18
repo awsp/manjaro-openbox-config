@@ -1,0 +1,40 @@
+{
+   "checksum": "cba479171fee1aa81314aea8fd515b9e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13218860989263231",
+            "guid": "d0476dba-9000-467b-8832-96c5a4eeeb61",
+            "id": "5",
+            "name": "Writing your own file system is easier than you think",
+            "type": "url",
+            "url": "https://medium.com/datadriveninvestor/writing-your-own-file-system-is-not-as-hard-as-you-may-think-aa4af09329cd"
+         } ],
+         "date_added": "13218773272532165",
+         "date_modified": "13218860989263231",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13218773272532181",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13218773272532183",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

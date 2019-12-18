@@ -1,0 +1,6 @@
+2019/11/25-10:49:13.753 5b8 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/11/25-10:49:13.755 5b8 Recovering log #38
+2019/11/25-10:49:13.757 5b8 Reusing old log Session Storage/000038.log 
+2019/11/25-10:55:11.111 aa5 Level-0 table #43: started
+2019/11/25-10:55:11.113 aa5 Level-0 table #43: 15369 bytes OK
+2019/11/25-10:55:11.116 aa5 Delete type=0 #38
